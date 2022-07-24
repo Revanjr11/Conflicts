@@ -17,6 +17,8 @@ public class College {
 	private void collegeRank() {
 		
 		System.out.println(" COLLEGE RANK - Anna University is ranked #1101 in Best Global Universities.");
+		System.out.println(" COLLEGE RANK - Anna University is ranked #1101 in Best Global Universities.");
+		System.out.println(" COLLEGE RANK - Anna University is ranked #1101 in Best Global Universities.");
 	}
 	
 	
